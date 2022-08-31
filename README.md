@@ -2,9 +2,9 @@
 
 This is the multi-platform influencer marketing dataset collected from the same group of 93 opinion leaders who have accounts both on Weibo and WeChat.
 
-As a result, the dataset contains various numeric metrics that reflect on the level of user engagement of posted blogs as well blog content.
+Generally, the dataset contains various numerical metrics that reflect on the level of user engagement of posted blogs as well as blog content.
 
-Here, for the sake of privacy, we only make the numeric part public.
+However, for the sake of privacy, we only make the numerical part public.
 In principle, the second part, i.e., textual content, is not allowed for individual use.
 If you really would like to have the access, please seek for cooperation with [Datastory](https://www.datastory.com.cn/).
 
