@@ -6,7 +6,7 @@ Generally, the dataset contains various numerical metrics that reflect on the le
 
 However, for the sake of privacy, we only make the numerical part public.
 In principle, the second part, i.e., textual content, is not allowed for individual use.
-If you really would like to have the access, please seek for cooperation with [Datastory](https://www.datastory.com.cn/).
+If you really want to have the access, please seek for cooperation with [Datastory](https://www.datastory.com.cn/).
 
 If you utilize our dataset, please cite our paper `An Empirical Study of User Engagement in Influencer Marketing on Weibo and WeChat`.
 
