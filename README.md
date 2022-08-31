@@ -4,10 +4,11 @@ This is the multi-platform influencer marketing dataset collected from the same 
 
 As a result, the dataset contains various numeric metrics that reflect on the level of user engagement of posted blogs as well blog content.
 
-Here, due to privacy preserving, we only make the numeric part public.
-If you would have access to the second part, i.e., textual content, please feel free to contact us by email.
+Here, for the sake of privacy, we only make the numeric part public.
+In principle, the second part, i.e., textual content, is not allowed for individual use.
+If you really would like to have the access, please seek for cooperation with [Datastory](https://www.datastory.com.cn/).
 
-If you would utilize our dataset, please cite our paper `An Empirical Study of User Engagement in Influencer Marketing on Weibo and WeChat`.
+If you utilize our dataset, please cite our paper `An Empirical Study of User Engagement in Influencer Marketing on Weibo and WeChat`.
 
 Many thanks.
 
@@ -22,9 +23,9 @@ Many thanks.
 
 ## Contact Information
 ```
+Zheng Fang: lucas@datastory.com.cn
 Jun Wang: jwang692-c@my.cityu.edu.hk
 Yu Yang: yuyang@cityu.edu.hk
-Zheng Fang: 
 ```
 
 ## Citation
