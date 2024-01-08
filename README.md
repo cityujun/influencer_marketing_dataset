@@ -29,3 +29,14 @@ Yu Yang: yuyang@cityu.edu.hk
 ```
 
 ## Citation
+```
+@ARTICLE{9895196,
+  author={Wang, Jun and Yang, Yu and Liu, Qi and Fang, Zheng and Sun, Shujuan and Xu, Yabo},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={An Empirical Study of User Engagement in Influencer Marketing on Weibo and WeChat}, 
+  year={2023},
+  volume={10},
+  number={6},
+  pages={3228-3240},
+  doi={10.1109/TCSS.2022.3204177}}
+```
